@@ -38,7 +38,6 @@ class _MyHomePageState extends State<MyHomePage> {
               autoPlay: true,
               autoRotate: false,
               cameraControls: false,
-              debugLogging: true,
               cameraTarget: CameraTarget(-.25, 1.5, 1.5),
               cameraOrbit: CameraOrbit(0, 90, 1),
             ),

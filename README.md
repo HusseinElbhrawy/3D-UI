@@ -1,16 +1,37 @@
-# ui_3d
+# 3D-UI
 
-A new Flutter project.
+A new Flutter Design UI project , with 3d effects.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Package Used 
 
-A few resources to get you started if this is your first Flutter project:
+- [o3d](https://pub.dev/packages/o3d)  -> to use 3d file 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Website used
+
+- [Vectary](https://www.vectary.com/)
+
+
+
+# ScreenShots
+
+- screenshot\mock_up.png
+
+
+# Video 
+
+- screenshot\video.mp4
+
+
+
+# How to use
+
+
+```bash
+flutter pub get
+```
+
+```bash
+flutter run
+```
