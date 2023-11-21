@@ -1,6 +1,6 @@
 # 3D-UI
 
-A new Flutter Design UI project , with 3d effects.
+A new Flutter Design UI project, with 3d effects.
 
 
 # Package Used 
@@ -16,22 +16,25 @@ A new Flutter Design UI project , with 3d effects.
 
 # ScreenShots
 
-- screenshot\mock_up.png
+![](screenshot/mock_up.png)
 
 
 # Video 
 
-- screenshot\video.mp4
+
+https://github.com/HusseinElbhrawy/3D-UI/assets/64389727/a141e037-fa85-45fe-b0b6-ba55c4132ec3
+
+
 
 
 
 # How to use
 
 
-```bash
+```dart
 flutter pub get
 ```
 
-```bash
+```dart
 flutter run
 ```
